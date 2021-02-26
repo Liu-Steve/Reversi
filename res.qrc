@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icon.png</file>
+        <file>res/title.png</file>
+        <file>res/map.png</file>
+        <file>res/background.png</file>
+        <file>res/start.png</file>
+        <file>res/return.png</file>
+        <file>res/returnPress.png</file>
+        <file>res/button.png</file>
+        <file>res/chessBlack.png</file>
+        <file>res/chessWhite.png</file>
+        <file>res/backgroundPlay.png</file>
+        <file>res/chess01.png</file>
+        <file>res/chess02.png</file>
+        <file>res/chess03.png</file>
+        <file>res/chess04.png</file>
+        <file>res/chess05.png</file>
+        <file>res/chess06.png</file>
+        <file>res/chessToPlace.png</file>
+        <file>res/click.wav</file>
+        <file>res/end.wav</file>
+    </qresource>
+</RCC>
